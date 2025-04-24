@@ -1,0 +1,21 @@
+OK影视、easybox接口
+        ok接口：
+	内部 http://ok321.top/tv
+	外部 http://ok321.top/ok
+        饭太硬接口：
+	主：http://www.饭太硬.com/tv
+	备：http://www.饭太硬.net/tv
+        王二小放牛娃接口：http://tvbox.王二小放牛娃.top
+        PG接口：
+	主：https://www.252035.xyz/p/jsm.json
+	备：https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
+        真心接口：
+	主：https://www.252035.xyz/z/FongMi.json
+	备：https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
+
+
+UZ接口：
+	输入以下分享码：
+	6666 大佬扩展+网盘+弹幕+推荐+直播（内涵 18+ 在最底部，不需要的手动取消勾选）
+	1111 采集
+	2222 成人采集
