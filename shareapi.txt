@@ -20,3 +20,12 @@ UZ接口：
 	6666 大佬扩展+网盘+弹幕+推荐+直播（内涵 18+ 在最底部，不需要的手动取消勾选）
 	1111 采集
 	2222 成人采集
+
+魔力云播 猫爪（ios专用）接口：
+
+	http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
+
+	http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
+
+	http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
+	
