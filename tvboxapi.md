@@ -17,7 +17,8 @@
 
 ### 王二小放牛娃
 ```
-	http://tvbox.王二小放牛娃.top
+	主：http://tvbox.王二小放牛娃.top
+	备：http://tv.999888987.xyz
 ```
 
 ### 在线PG
@@ -41,6 +42,12 @@
 ```
 	主：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
 	备：https://13826.kstore.space/DEMO.json
+```
+
+### 肥猫
+```
+	主：http://肥猫.com
+	备：http://hello.肥猫.com
 ```
 
 
