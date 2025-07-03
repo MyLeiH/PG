@@ -21,7 +21,8 @@
 	备：https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
 
    摸鱼儿
-	http://我不是.摸鱼儿.top
+	主：http://我不是.摸鱼儿.top
+	备：http://我不是.摸鱼儿.xyz
 
    小米
 	主：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
