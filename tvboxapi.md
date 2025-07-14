@@ -13,6 +13,7 @@
 ```
 	主：http://www.饭太硬.com/tv
 	备：http://www.饭太硬.net/tv
+	以上接口无效使用该接口：https://gitee.com/xxoooo/fan/raw/master/in.bmp
 ```
 
 ### 王二小放牛娃
