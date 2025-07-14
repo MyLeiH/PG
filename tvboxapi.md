@@ -35,7 +35,7 @@
 
 ### 摸鱼儿
 ```
-	主：http://我不是.摸鱼儿.top
+	主：http://我不是.摸鱼儿.com
 	备：http://我不是.摸鱼儿.xyz
 ```
 
@@ -48,7 +48,8 @@
 ### 肥猫
 ```
 	主：http://肥猫.com
-	备：http://hello.肥猫.com
+	备1：http://hello.肥猫.com
+	备2：https://6296.kstore.vip/facat.json 
 ```
 
 
