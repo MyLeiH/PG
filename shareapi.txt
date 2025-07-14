@@ -6,7 +6,7 @@
 
    饭太硬
 	主：http://www.饭太硬.com/tv
-	备：http://www.饭太硬.net/tv
+	备1：http://www.饭太硬.net/tv
 
    王二小放牛娃
 	主：http://tvbox.王二小放牛娃.top
@@ -21,7 +21,7 @@
 	备：https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
 
    摸鱼儿
-	主：http://我不是.摸鱼儿.top
+	主：http://我不是.摸鱼儿.com
 	备：http://我不是.摸鱼儿.xyz
 
    小米
@@ -30,7 +30,8 @@
 
    肥猫
 	主：http://肥猫.com
-	备：http://hello.肥猫.com
+	备1：http://hello.肥猫.com
+	备2：https://6296.kstore.vip/facat.json 
 
  UZ影视
    订阅中输入以下分享码
