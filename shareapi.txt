@@ -27,7 +27,8 @@
 
    小米
 	主：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
-	备：https://13826.kstore.space/DEMO.json
+	备1：https://13826.kstore.space/DEMO.json
+	备2：https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
 
    肥猫
 	主：http://肥猫.com
