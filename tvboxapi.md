@@ -51,7 +51,7 @@
 ```
 	主：http://肥猫.com
 	备1：http://hello.肥猫.com
-	备2：https://6296.kstore.vip/facat.json 
+	备2：https://6296.kstore.vip/fm.gif
 ```
 
 
