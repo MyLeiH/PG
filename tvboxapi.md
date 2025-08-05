@@ -76,3 +76,7 @@
 	http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
 ```
 
+## 魔力云播专用接口：
+```
+	https://9280.kstore.space/cat/index.js.md5
+```
