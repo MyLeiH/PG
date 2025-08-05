@@ -33,7 +33,7 @@
    肥猫
 	主：http://肥猫.com
 	备1：http://hello.肥猫.com
-	备2：https://6296.kstore.vip/facat.json 
+	备2：https://6296.kstore.vip/fm.gif
 
  UZ影视
 
@@ -49,3 +49,4 @@
 	http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 	http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
 	http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
+
