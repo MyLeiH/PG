@@ -1,3 +1,7 @@
 MusicFree订阅源：
 	
 	https://musicfreepluginshub.2020818.xyz/plugins.json
+
+	元力音乐（MusicFree）
+		主：http://music.haitangw.net/%E5%85%83%E5%8A%9B%E9%9F%B3%E4%B9%90.json
+		备：https://13413.kstore.space/musicfree.json
