@@ -2,7 +2,7 @@
  ok影视、影视仓、TVbox接口
    ok接口
         内部：http://ok321.top/tv
-	外部：http://ok321.top/ok
+		外部：http://ok321.top/ok
 
    饭太硬
 	主：http://www.饭太硬.com/tv
@@ -11,7 +11,9 @@
 
    王二小放牛娃
 	主：http://tvbox.王二小放牛娃.top
+		http://tv.999888123.xyz
 	备：http://tv.999888987.xyz
+		https://9280.kstore.space/wex.json
 
    在线PG
 	主：https://www.252035.xyz/p/jsm.json
@@ -26,7 +28,7 @@
 	备1：http://我不是.摸鱼儿.top
 	备2：http://我不是.摸鱼儿.xyz
 
-   小米
+   小米（搜弹幕）
 	主：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
 	备1：https://13826.kstore.space/DEMO.json
 	备2：https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
@@ -37,10 +39,6 @@
 	备2：https://6296.kstore.vip/fm.gif
 
  UZ影视
-
-   摸鱼儿
-	订阅中添加：http://xn--ihqu10cn4c.xn--v4q818bf34b.com/UZ/DEMO.json
-
    订阅中输入以下分享码
 	6666 大佬扩展+网盘+弹幕+推荐+直播（内涵 18+ 在最底部，不需要的手动取消勾选）
 	1111 采集
@@ -53,6 +51,8 @@
 
  魔力云播专用接口：
 	https://9280.kstore.space/cat/index.js.md5
+	https://9280.kstore.vip/cat/index.js.md5
+
 
 
 
