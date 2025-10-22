@@ -44,7 +44,7 @@
 	1111 采集
 	2222 成人采集
 
- 魔力云播 猫爪（ios专用）接口：
+ 魔力云播 猫爪 MiraPlay（ios专用）接口：
 	http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 	http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
 	http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
@@ -52,6 +52,7 @@
  魔力云播专用接口：
 	https://9280.kstore.space/cat/index.js.md5
 	https://9280.kstore.vip/cat/index.js.md5
+
 
 
 
