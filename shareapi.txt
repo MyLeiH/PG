@@ -1,8 +1,8 @@
-接口
+数据源接口
  ok影视、影视仓、TVbox接口
    ok接口
-        内部：http://ok321.top/tv
-		外部：http://ok321.top/ok
+    内部：http://ok321.top/tv
+	外部：http://ok321.top/ok
 
    饭太硬
 	主：http://www.饭太硬.com/tv
@@ -38,11 +38,13 @@
 	备1：http://hello.肥猫.com
 	备2：https://6296.kstore.vip/fm.gif
 
+****************************************************************
+
  UZ影视
     使用方法：uz影视 -> 设置 -> 数据管理 -> 右上角➕号 -> 输入链接或分享码 -> 确定
-	6666 大佬扩展+网盘+弹幕+推荐+直播（内涵 18+ 在最底部，不需要的手动取消勾选）
-	1111 采集
-	2222 成人采集
+	分享码：6666，1111，2222
+
+****************************************************************
 
  魔力云播 猫爪（猫影视） MiraPlay（ios专用）接口：
 	http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
@@ -52,6 +54,7 @@
  魔力云播专用接口：
 	https://9280.kstore.space/cat/index.js.md5
 	https://9280.kstore.vip/cat/index.js.md5
+
 
 
 
