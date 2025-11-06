@@ -40,6 +40,19 @@
 	备1：http://hello.肥猫.com
 	备2：https://6296.kstore.vip/fm.gif
 
+
+	catvod
+		接口 1 - 自用省心
+		https://tvbox.catvod.com/catvod.json
+		接口 2 - PG
+		https://tvbox.catvod.com/jsm.json
+		接口 3 - 真心
+		https://tvbox.catvod.com/FongMi.json
+		接口 4 - 潇洒
+		https://tvbox.catvod.com/xs/api.json
+		接口 5 - 嗷呜弹幕
+		https://tvbox.catvod.com/aw/config.json
+
 ****************************************************************
 
  UZ影视
@@ -66,6 +79,7 @@
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
