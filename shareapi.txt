@@ -1,7 +1,9 @@
 数据源接口
+*******************************************************************************************
  ok影视、影视仓、TVbox、easybox接口
-   ok接口
-    内部：http://ok321.top/tv
+
+    ok接口
+	内部：http://ok321.top/tv
 	外部：http://ok321.top/ok
 	内部接口(备用) https://10352.kstore.vip/tv
 	外部接口(备用) https://10352.kstore.vip/ok
@@ -34,6 +36,9 @@
 	主：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
 	备1：https://13826.kstore.space/DEMO.json
 	备2：https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
+
+	嗷呜（搜弹幕）
+	 https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
 
    肥猫
 	主：http://肥猫.com
@@ -79,6 +84,7 @@
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
