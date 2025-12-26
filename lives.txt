@@ -9,3 +9,7 @@ https://live.ottiptv.cc/iptv.m3u?userid=6907124091&sign=87b40854d5185475e336ee70
 
 直播线路
 https://live.tv.darwinchow.com/sub/02Rmp7XOozfgFiaSPkRbxv2Ud5Kn8V
+
+bxtv
+http://bxtv.3a.ink/live.txt
+
