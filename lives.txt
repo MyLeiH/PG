@@ -6,3 +6,6 @@ https://live.catvod.com/tv.m3u
 
 肥羊Mursor（需设置ua, "okHttp/Mod-1.4.0.0"）
 https://live.ottiptv.cc/iptv.m3u?userid=6907124091&sign=87b40854d5185475e336ee7068b962f108612ed5b23c00b4df8480cd0823186617982f22428292a4f3125863f863f9363013006a6b1150d700d9def4be7acb686baef36ecbd2d0&auth_token=da1a757e7725357a7c43bab86de49956
+
+直播线路
+https://live.tv.darwinchow.com/sub/02Rmp7XOozfgFiaSPkRbxv2Ud5Kn8V
