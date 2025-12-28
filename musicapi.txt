@@ -5,3 +5,10 @@ MusicFree订阅源：
 	元力音乐（MusicFree）
 		主：http://music.haitangw.net/%E5%85%83%E5%8A%9B%E9%9F%B3%E4%B9%90.json
 		备：https://13413.kstore.space/musicfree.json
+
+*****************************************************************************************
+lx-music:
+	1、野花白云外链:https://pan.vma.cc/pan/down.php/28a6d8f0d49206a73b6b2f7d3bc10c57.js
+	2、聚合白云外链:https://pan.vma.cc/pan/down.php/ced97e675907dee1f8eb330ad8330f80.js
+	3、星海白云外链:https://pan.vma.cc/pan/down.php/f3a7e7f9962c0272ff813d9686886b22.js
+	4、长青白云外链:https://pan.vma.cc/pan/down.php/bd695a5e020df26625fb9b3570192e40.js
