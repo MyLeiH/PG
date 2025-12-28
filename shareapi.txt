@@ -37,7 +37,7 @@
 	备1：https://13826.kstore.space/DEMO.json
 	备2：https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
 
-	嗷呜（搜弹幕）
+   嗷呜（搜弹幕）
 	 https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
 
    肥猫
@@ -84,6 +84,7 @@
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
