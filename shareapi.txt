@@ -17,7 +17,7 @@
 	主：http://tvbox.王二小放牛娃.top
 		http://tv.999888123.xyz
 	备：http://tv.999888987.xyz
-		https://9280.kstore.space/wex.json
+		https://9280.kstore.vip/wex.json
 
    在线PG
 	主：https://www.252035.xyz/p/jsm.json
@@ -57,7 +57,7 @@
 		https://tvbox.catvod.com/xs/api.json
 		接口 5 - 嗷呜弹幕
 		https://tvbox.catvod.com/aw/config.json
-
+	
 ****************************************************************
 
  UZ影视
@@ -66,13 +66,12 @@
 
 ****************************************************************
 
- 魔力云播 猫爪（猫影视） MiraPlay（ios专用）接口：
+ 魔力云播 猫爪（猫影视）PeekPili  MiraPlay（ios专用）接口：
 	http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 	http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
 	http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
 
- 魔力云播专用接口：
-	https://9280.kstore.space/cat/index.js.md5
+ 魔力云播 MiraPlay专用接口：
 	https://9280.kstore.vip/cat/index.js.md5
 
 
@@ -84,6 +83,7 @@
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
