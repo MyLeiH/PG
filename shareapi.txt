@@ -74,15 +74,22 @@
  魔力云播 MiraPlay专用接口：
 	https://9280.kstore.vip/cat/index.js.md5
 
+ 雪乃猫源(猫爪，猫影视，PeekPili)：
+	https://9764.kstore.space/xuenai/catvod/index.js.md5
+
+ 沐辰(猫爪，猫影视，PeekPili)：
+	https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
+
 
 ********************************************************************
 
 小猫影视
 	使用方法：设置 -> 视频源管理 -> 填入链接 -> 点击右上角小飞机按钮
-	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/x.json
-	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
-	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
-	https://gh-proxy.com/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/x.json
+	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
+	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
+	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
