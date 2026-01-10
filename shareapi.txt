@@ -14,6 +14,7 @@
 	以上接口无效使用该接口：https://gitee.com/xxoooo/fan/raw/master/in.bmp
 
    王二小放牛娃
+	新接口：https://9280.kstore.vip/newwex.json
 	主：http://tvbox.王二小放牛娃.top
 		http://tv.999888123.xyz
 	备：http://tv.999888987.xyz
@@ -89,6 +90,7 @@
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
