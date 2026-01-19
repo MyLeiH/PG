@@ -59,6 +59,10 @@
 		https://tvbox.catvod.com/xs/api.json
 		接口 5 - 嗷呜弹幕
 		https://tvbox.catvod.com/aw/config.json
+
+
+	Vox(peekpili深度兼容)：
+		http://rihou.cc:88/demo.php
 	
 ********************************************************************************************************
 
@@ -91,6 +95,7 @@
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
