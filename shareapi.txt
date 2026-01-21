@@ -33,6 +33,7 @@
 	主：http://我不是.摸鱼儿.com
 	备1：http://我不是.摸鱼儿.top
 	备2：http://我不是.摸鱼儿.xyz
+	备用（支持peekpili）：https://6800.kstore.vip/fish.json
 
    小米（搜弹幕）
 	主：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
@@ -95,6 +96,7 @@
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
