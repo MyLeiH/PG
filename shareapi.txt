@@ -4,8 +4,8 @@
  ok影视、影视仓、TVbox、easybox接口
 
     ok接口
-	内部：http://ok321.top/tv
-	外部：http://ok321.top/ok
+	内部：http://ok213.top/tv
+	外部：http://ok213.top/ok
 	内部接口(备用) https://10352.kstore.vip/tv
 	外部接口(备用) https://10352.kstore.vip/ok
 
@@ -96,6 +96,7 @@
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
