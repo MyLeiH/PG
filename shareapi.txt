@@ -84,7 +84,7 @@
 	https://9280.kstore.vip/cat/index.js.md5
 
  雪乃猫源(猫爪，猫影视，PeekPili,JSTV)：
-	https://9764.kstore.space/xuenai/catvod/index.js.md5
+	https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js.md5
 
  沐辰(猫爪，猫影视，PeekPili,JSTV)：
 	https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
@@ -98,6 +98,7 @@
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
