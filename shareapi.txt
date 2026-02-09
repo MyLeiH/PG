@@ -34,12 +34,11 @@
    摸鱼儿
 	主：http://我不是.摸鱼儿.com
 	备1：http://我不是.摸鱼儿.top
-	备2：http://我不是.摸鱼儿.xyz
-	备用（支持peekpili）：https://6800.kstore.vip/fish.json
+	备用（peekpili安卓专用）：https://6800.kstore.vip/fish.json
 
    小米（搜弹幕）
 	主：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
-	备1：https://13826.kstore.space/DEMO.json
+	备1：http://zzzy.shop/%E5%B0%8F%E7%B1%B3/DEMO.json
 	备2：https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
 
    嗷呜（搜弹幕）
@@ -48,7 +47,6 @@
    肥猫
 	主：http://肥猫.com
 	备1：http://hello.肥猫.com
-	备2：https://6296.kstore.vip/fm.gif
 
 
 	catvod
@@ -75,12 +73,12 @@
 
 ********************************************************************************************************
 
- 魔力云播 猫爪（猫影视）PeekPili  MiraPlay JSTV（ios专用）接口：
+ 魔力云播 MiraPlay 猫爪（猫影视）ios专用）接口：
 	http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
 	http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5
 	http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5
 
- 魔力云播 MiraPlay专用接口：
+ 魔力云播 MiraPlay PeekPili JSTV 专用接口：
 	https://9280.kstore.vip/cat/index.js.md5
 
  雪乃猫源(猫爪，猫影视，PeekPili,JSTV)：
@@ -98,6 +96,7 @@
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
