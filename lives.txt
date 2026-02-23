@@ -1,8 +1,8 @@
 MIGU
 https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
-冰茶tv
-https://bc.188766.xyz/?ip=&mima=bingcha1130
+裤佬
+https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 
 猫影tv
 https://live.catvod.com/tv.m3u
@@ -10,12 +10,9 @@ https://live.catvod.com/tv.m3u
 直播线路
 https://live.tv.darwinchow.com/sub/02Rmp7XOozfgFiaSPkRbxv2Ud5Kn8V
 
-
-速度还可以
-https://gh-proxy.com/https://raw.githubusercontent.com/gitgordon85/IPTV-Check/refs/heads/master/config/866-898-9898
-
 APTV
 https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
 
 
 
