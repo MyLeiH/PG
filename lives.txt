@@ -13,6 +13,18 @@ https://live.tv.darwinchow.com/sub/02Rmp7XOozfgFiaSPkRbxv2Ud5Kn8V
 APTV
 https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
+宫殿TV
+https://gongdian.top/tv/iptv
+
+jackTV
+https://php.946985.filegear-sg.me/jackTV.m3u
+
+小日子TV
+https://web.utako.moe/jp.m3u
+
+海外TV
+https://down.nigx.cn/iptv-org.github.io/iptv/index.m3u
+
 
 
 
