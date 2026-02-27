@@ -45,8 +45,10 @@
 	 https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
 
    肥猫
-	主：http://肥猫.com
-	备1：http://hello.肥猫.com
+	主接口：http://肥猫.com    
+	备用接口①：http://feimao.pro    
+	备用接口②：http://hello.肥猫.com    
+	备用接口③：https://6296.kstore.space/fm.gif
 
 
 	catvod
@@ -58,11 +60,9 @@
 		https://tvbox.catvod.com/FongMi.json
 		接口 4 - 潇洒
 		https://tvbox.catvod.com/xs/api.json
-		接口 5 - 嗷呜弹幕
-		https://tvbox.catvod.com/aw/config.json
 
 
-	Vox(peekpili深度兼容)：
+	Vox(peekpili安卓)：
 		http://rihou.cc:88/demo.php
 	
 ********************************************************************************************************
@@ -96,6 +96,7 @@
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
+
 
 
 
