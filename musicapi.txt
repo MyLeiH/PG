@@ -9,6 +9,18 @@ MusicFree订阅源：
 
 *****************************************************************************************
 lx-music:
+
+	六人：https://gh-proxy.com/http://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+
+	野花：https://gh-proxy.com/raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+
+	野草：https://gh-proxy.com/raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
+
+	Ikun：https://gh-proxy.com/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
+
+	星海音源：https://zrcdy.dpdns.org/lx/xinghai-music-source.js
+
+	洛雪V4：https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
 	1、野花白云外链:https://pan.vma.cc/pan/down.php/28a6d8f0d49206a73b6b2f7d3bc10c57.js
 	2、聚合白云外链:https://pan.vma.cc/pan/down.php/ced97e675907dee1f8eb330ad8330f80.js
 	3、星海白云外链:https://pan.vma.cc/pan/down.php/f3a7e7f9962c0272ff813d9686886b22.js
