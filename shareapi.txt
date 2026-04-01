@@ -32,8 +32,6 @@
 	备：https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
 
    摸鱼儿
-	主：http://我不是.摸鱼儿.com
-	备1：http://我不是.摸鱼儿.top
 	备用（peekpili安卓专用）：https://6800.kstore.vip/fish.json
 
    小米（搜弹幕）
@@ -42,7 +40,8 @@
 	备2：https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
 
    嗷呜（搜弹幕）
-	 https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
+	 http://mytv6688.xyz/aowu/config
+	 http://gh-proxy.com/https://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/config
 
    肥猫
 	主接口：http://肥猫.com    
