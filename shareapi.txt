@@ -25,7 +25,7 @@
 
    在线PG
 	主：https://www.252035.xyz/p/jsm.json
-	备：https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
+	备：http://www3.fish2018.ip-ddns.com/p/jsm.json
 
    在线真心
 	主：https://www.252035.xyz/z/FongMi.json
@@ -40,8 +40,7 @@
 	备2：https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
 
    嗷呜（搜弹幕）
-	 http://mytv6688.xyz/aowu/config
-	 http://gh-proxy.com/https://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/config
+	 http://mytv6688.xyz/aowu/config.webp
 
    肥猫
 	主接口：http://肥猫.com    
@@ -68,8 +67,7 @@
 
  UZ影视
     使用方法：uz影视 -> 设置 -> 数据管理 -> 右上角➕号 -> 输入链接或分享码 -> 确定
-	分享码：6666，1111，2222
-
+	分享码：6666
 ********************************************************************************************************
 这里面的peekpili都能用，peekpili都能用，peekpili都能用！！！！
 
