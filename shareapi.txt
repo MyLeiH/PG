@@ -35,9 +35,11 @@
 	备用（peekpili安卓专用）：https://6800.kstore.vip/fish.json
 
    小米（搜弹幕）
-	主：http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
-	备1：http://zzzy.shop/%E5%B0%8F%E7%B1%B3/DEMO.json
-	备2：https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
+	主：
+		https://gitee.com/smallmi1007/mimi/raw/master/mi.json
+	备用：
+		https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
+		https://zzzy.shop/小米/DEMO.json
 
    嗷呜（搜弹幕）
 	 http://mytv6688.xyz/aowu/config.webp
