@@ -3,14 +3,6 @@
 ***************************************************************************************************************
  ok影视、影视仓、TVbox、easybox接口
 
-    ok接口
-	内部：http://ok213.top/tv
-	外部：http://ok213.top/ok
-	内部二：http://ok521.top/tv
-	外部二：http://ok521.top/ok
-	内部(备用) https://10352.kstore.vip/tv
-	外部(备用) https://10352.kstore.vip/ok
-
    饭太硬
 	主：http://www.饭太硬.com/tv
 	备1：http://www.饭太硬.net/tv
@@ -36,9 +28,8 @@
 
    小米（搜弹幕）
 	主：
-		https://gitee.com/smallmi1007/mimi/raw/master/mi.json
-	备用：
 		https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
+	备：
 		https://zzzy.shop/小米/DEMO.json
 
    嗷呜（搜弹幕）
