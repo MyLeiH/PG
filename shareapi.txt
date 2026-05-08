@@ -29,10 +29,11 @@
    小米（搜弹幕）
 	主：
 		https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json
-		https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json
-	备：
-		https://zzzy.shop/小米/DEMO.json
-		https://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json
+		https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
+		https://hk.gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
+	测试：
+		https://xiuxiu-pro-new.meitudata.com/ai_quality/7229a17c9559861fd1e65272e0738a82.png
+		https://xiuxiu-pro-new.meitudata.com/ai_quality/aa9e866383f02c4e130b262f5b89728e.png
 
    嗷呜（搜弹幕）
 	 http://mytv6688.xyz/aowu/config.webp
