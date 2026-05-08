@@ -7,18 +7,9 @@ https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/J
 猫影tv
 https://live.catvod.com/tv.m3u
 
-直播线路
-https://live.tv.darwinchow.com/sub/02Rmp7XOozfgFiaSPkRbxv2Ud5Kn8V
-
-APTV
-https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
 日后TV
 http://rihou.cc:555/gggg.nzk
 "ua": "okhttp/3"
-
-宫殿TV
-https://gongdian.top/tv/iptv
 
 jackTV
 https://php.946985.filegear-sg.me/jackTV.m3u
