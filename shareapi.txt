@@ -1,19 +1,16 @@
 数据源接口(注意查看分割线，应用不同接口不同，并不是都通用！！！！)
 
 ***************************************************************************************************************
- ok影视、影视仓、TVbox、easybox接口
+ ok影视、FongMi版影视、影视仓、TVbox、easybox接口
 
    饭太硬
-	主：http://www.饭太硬.com/tv
 	备1：http://www.饭太硬.net/tv
-	以上接口无效使用该接口：https://gitee.com/xxoooo/fan/raw/master/in.bmp
+	备2：http://www.饭太硬.art/tv
+	备3：https://fty.xxooo.cf/tv
 
    王二小放牛娃
-	新接口：https://9280.kstore.vip/newwex.json
-	主：http://tvbox.王二小放牛娃.top
-		http://tv.999888123.xyz
-	备：http://tv.999888987.xyz
-		https://9280.kstore.vip/wex.json
+	新：https://9280.kstore.vip/newwex.json
+	备：https://9280.kstore.vip/wex.json
 
    在线PG
 	主：https://www.252035.xyz/p/jsm.json
@@ -23,8 +20,10 @@
 	主：https://www.252035.xyz/z/FongMi.json
 	备：https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
 
-   摸鱼儿
-	备用（peekpili安卓专用）：https://6800.kstore.vip/fish.json
+    摸鱼儿
+	主：http://我不是.摸鱼儿.top
+	备：http://www.小不点.com
+
 
    小米（搜弹幕）
 	主：
@@ -39,9 +38,6 @@
 	 http://mytv6688.xyz/aowu/config.webp
 
    肥猫
-	主接口：http://肥猫.com    
-	备用接口①：http://feimao.pro    
-	备用接口②：http://hello.肥猫.com    
 	备用接口③：https://6296.kstore.space/fm.gif
 
 
@@ -55,9 +51,6 @@
 		接口 4 - 潇洒
 		https://tvbox.catvod.com/xs/api.json
 
-
-	Vox(peekpili安卓)：
-		http://rihou.cc:88/demo.php
 	
 ********************************************************************************************************
 
@@ -65,7 +58,7 @@
     使用方法：uz影视 -> 设置 -> 数据管理 -> 右上角➕号 -> 输入链接或分享码 -> 确定
 	分享码：6666
 ********************************************************************************************************
-这里面的peekpili都能用，peekpili都能用，peekpili都能用！！！！
+猫源接口，这里面的peekpili都能用，peekpili都能用，peekpili都能用！！！！
 
  魔力云播 MiraPlay 猫爪（猫影视）ios专用）接口：
 	http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5
