@@ -4,9 +4,13 @@
  ok影视、FongMi版影视、影视仓、TVbox、easybox接口
 
    饭太硬
+	主：http://www.饭太硬.cc/tv
 	备1：http://www.饭太硬.net/tv
 	备2：http://www.饭太硬.art/tv
 	备3：https://fty.xxooo.cf/tv
+	备4：http://fty.888484.xyz/tv
+	备5：http://fty.333232.xyz/tv
+	江苏、郑州：https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp
 
    王二小放牛娃
 	新：https://9280.kstore.vip/newwex.json
@@ -23,7 +27,7 @@
     摸鱼儿
 	主：http://我不是.摸鱼儿.top
 	备：http://www.小不点.com
-
+	备：https://6800.kstore.vip/fish.json
 
    小米（搜弹幕）
 	主：
@@ -38,8 +42,9 @@
 	 http://mytv6688.xyz/aowu/config.webp
 
    肥猫
-	备用接口③：https://6296.kstore.space/fm.gif
-
+	主：http://肥猫.net/
+	备用1：http://hello.肥猫.net
+	备用2：http://肥猫.net/tv
 
 	catvod
 		接口 1 - 自用省心
@@ -48,8 +53,6 @@
 		https://tvbox.catvod.com/jsm.json
 		接口 3 - 真心
 		https://tvbox.catvod.com/FongMi.json
-		接口 4 - 潇洒
-		https://tvbox.catvod.com/xs/api.json
 
 	
 ********************************************************************************************************
@@ -57,6 +60,7 @@
  UZ影视
     使用方法：uz影视 -> 设置 -> 数据管理 -> 右上角➕号 -> 输入链接或分享码 -> 确定
 	分享码：6666
+
 ********************************************************************************************************
 猫源接口，这里面的peekpili都能用，peekpili都能用，peekpili都能用！！！！
 
@@ -83,20 +87,6 @@
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/vod.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/t4.json
 	https://gh-proxy.org/https://raw.githubusercontent.com/d1y/kitty/gh-pages/lives.json
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
