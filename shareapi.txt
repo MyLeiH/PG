@@ -12,7 +12,7 @@
 	备5：http://fty.333232.xyz/tv
 	江苏、郑州：https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp
 
-   王二小放牛娃
+   王二小放牛娃(Fongmi版5.5.0以后不支持go，待解决！先用ok或Fongmi5.5.0以前的版本)
 	新：https://9280.kstore.vip/newwex.json
 	备：https://9280.kstore.vip/wex.json
 
