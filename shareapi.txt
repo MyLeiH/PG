@@ -39,12 +39,14 @@
 		https://xiuxiu-pro-new.meitudata.com/ai_quality/aa9e866383f02c4e130b262f5b89728e.png
 
    嗷呜（搜弹幕）
-	 http://mytv6688.xyz/aowu/config.webp
+	 http://itv666.cc/aowu/config.webp
+	 
 
    肥猫
 	主：http://肥猫.net/
 	备用1：http://hello.肥猫.net
 	备用2：http://肥猫.net/tv
+	备用3：https://w.junce.dpdns.org/fm.gif
 
 	catvod
 		接口 1 - 自用省心
@@ -78,6 +80,8 @@
  沐辰(猫爪，猫影视，PeekPili,JSTV)：
 	https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
 
+ 裤佬猫源
+	https://gh-proxy.com/https://raw.githubusercontent.com/Jsnzkpg/stymei/Jsnzkpg/index.js.md5
 
 **********************************************************************************************************
 
