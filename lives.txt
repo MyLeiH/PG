@@ -10,6 +10,10 @@ https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3
 足球杯
 http://82.156.243.185:33389/fwc.m3u
 
+https://iptv.catvod.com/kf/catvod.m3u
+https://iptv.catvod.com/ok/catvod.m3u
+https://iptv.catvod.com/88/catvod.m3u
+
 日后TV
 http://rihou.cc:555/gggg.nzk
 "ua": "okhttp/3"
