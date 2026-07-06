@@ -12,7 +12,7 @@
 	备5：http://fty.333232.xyz/tv
 	江苏、郑州：https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp
 
-   王二小放牛娃(Fongmi版5.5.0以后不支持go，待解决！先用ok或Fongmi5.5.0以前的版本)
+   王二小放牛娃
 	新：http://new.王二小放牛娃.top
 	新：http://new.999888123.xyz
 	新：http://new.999888987.xyz
@@ -23,11 +23,11 @@
 	http://tv.999888123.xyz/
 	备：https://9280.kstore.vip/wex.json
 
-   在线PG
+   在线PG(支持webhtv)
 	主：https://www.252035.xyz/p/jsm.json
 	备：http://www3.fish2018.ip-ddns.com/p/jsm.json
 
-   在线真心
+   在线真心(支持webhtv)
 	主：https://www.252035.xyz/z/FongMi.json
 	备：https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
 
@@ -50,6 +50,9 @@
 
    嗷呜（搜弹幕）
 	 http://itv666.cc/aowu/config.webp
+
+   Vox
+	  主：http://rihou.cc:88/demo.php
 	 
 
    肥猫
