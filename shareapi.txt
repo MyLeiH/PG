@@ -49,9 +49,16 @@
 		https://xiuxiu-pro-new.meitudata.com/ai_quality/aa9e866383f02c4e130b262f5b89728e.png
 
    嗷呜（搜弹幕）
-	 http://itv666.cc/aowu/config.webp
+	 主接口：
+		http://www.英格里希嗷呜.top/tv
+	 备用1:
+		http://itv666.cc/aowu/config.webp
+	 备用2:
+		https://9763.kstore.vip/aowu.json
+	 防失联：
+		http://www.英格里希嗷呜.top (http://www.xn--nsr30bl8nb2kyt7a8vs.top/)
 
-   Vox
+    Vox
 	  主：http://rihou.cc:88/demo.php
 	 
 
