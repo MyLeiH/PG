@@ -32,12 +32,13 @@
 	备：https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
 
     摸鱼儿
-	主：http://我不是.摸鱼儿.top
+	主：http://摸鱼儿.cc
+		http://我不是.摸鱼儿.cc
 	备：http://www.小不点.com
 	备：https://6800.kstore.vip/fish.json
 
    裤佬
-		https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg2
+		https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg
 
    小米（搜弹幕）
 	主：
