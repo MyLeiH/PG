@@ -35,7 +35,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php
 "ua": "okhttp/5.3.2"
 
 全球(翻)
-https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u
+https://seep.eu.org/iptv-org.github.io/iptv/index.m3u
 
 
 
