@@ -2,13 +2,15 @@ MIGU
 https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
 裤佬
-https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg1.m3u
+https://live.445569.xyz/live.m3u
 
 Kimentanm
 https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 足球杯
 http://82.156.243.185:33389/fwc.m3u
+
+https://sports.445569.xyz/live.m3u
 
 https://iptv.catvod.com/kf/catvod.m3u
 https://iptv.catvod.com/ok/catvod.m3u
