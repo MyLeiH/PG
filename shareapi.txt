@@ -38,7 +38,7 @@
 	备：https://6800.kstore.vip/fish.json
 
    裤佬
-		https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg
+		https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
 
    小米（搜弹幕）
 	主：
