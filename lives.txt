@@ -1,7 +1,6 @@
-MIGU
-https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
 裤佬
+https://seep.eu.org/https://live.445569.xyz/live.m3u
 https://live.445569.xyz/live.m3u
 
 Kimentanm
@@ -15,10 +14,6 @@ https://iptv.catvod.com/kf/catvod.m3u
 https://iptv.catvod.com/ok/catvod.m3u
 https://iptv.catvod.com/88/catvod.m3u
 
-日后TV
-http://rihou.cc:555/gggg.nzk
-"ua": "okhttp/3"
-
 宫殿TV
 https://gongdian.top/tv/iptv
 "ua": "okhttp/3"
@@ -29,8 +24,11 @@ https://php.946985.filegear-sg.me/jackTV.m3u
 易发TV
 https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
 
-4GTV
+4GTV(弯弯节点)
 http://4gtv.cnlive.club/4gtv.m3u
+
+华视TV
+https://445569.pages.dev/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv
 
 全球(翻)
 https://seep.eu.org/iptv-org.github.io/iptv/index.m3u
