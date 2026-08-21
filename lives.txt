@@ -18,6 +18,10 @@ https://iptv.catvod.com/88/catvod.m3u
 https://gongdian.top/tv/iptv
 "ua": "okhttp/3"
 
+日后TV
+http://rihou.cc:555/gggg.nzk
+"ua": "okhttp/3"
+
 jackTV
 https://php.946985.filegear-sg.me/jackTV.m3u
 
