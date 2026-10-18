@@ -97,8 +97,13 @@
  沐辰(猫爪，猫影视，PeekPili,JSTV)：
 	https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
 
- 裤佬猫源
-	https://gh-proxy.com/https://raw.githubusercontent.com/Jsnzkpg/stymei/Jsnzkpg/index.js.md5
+ 豆儿
+	https://woleigedouer:woleigedouer@catpaw.douer.me/index.js.md5
+
+ Y佬
+	https://gh-proxy.org/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/jstv/index.js.md5
+ L佬
+	https://gh-proxy.org/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js.md5
 
 **********************************************************************************************************
 
